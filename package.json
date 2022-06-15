@@ -1,5 +1,5 @@
 {
-  "name": "@codemanyatta/array-to-object",
+  "name": "@benny-otieno/array-to-object",
   "version": "1.0.0",
   "description": "Get an object easily from array",
   "main": "index.js",
