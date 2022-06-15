@@ -1,0 +1,24 @@
+{
+  "name": "array-to-object",
+  "version": "1.0.0",
+  "description": "Get an object easily from array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinn254/ArrayToObject-npm.git"
+  },
+  "keywords": [
+    "Array",
+    "to",
+    "objects"
+  ],
+  "author": "Benny H. Otieno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hinn254/ArrayToObject-npm/issues"
+  },
+  "homepage": "https://github.com/hinn254/ArrayToObject-npm#readme"
+}
