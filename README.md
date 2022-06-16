@@ -4,8 +4,9 @@
 
 ## Installation
 
-- Using [npm](https://www.npmjs.com/#getting-started): `npm install react-native-gifted-chat --save`
-- Using [Yarn](https://yarnpkg.com/): `yarn add react-native-gifted-chat`
+- Using [npm](https://www.npmjs.com/#getting-started): `npm i @benny-otieno/array-to-object`
+- Using [Yarn](https://yarnpkg.com/): `yarn add @benny-otieno/array-to-object`
+
 
 
 ## Example
