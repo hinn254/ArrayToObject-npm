@@ -1,6 +1,6 @@
 {
   "name": "@benny-otieno/array-to-object",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get an object easily from array",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/hinn254/ArrayToObject-npm.git"
   },
-
   "keywords": [
     "Array",
     "json",
